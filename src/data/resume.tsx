@@ -112,7 +112,7 @@ export const DATA = {
       href: "#",
       badges: [],
       location: "Ethiopia",
-      title: "Team Lead",
+      title: "Full Stack Developer",
       logoUrl: "/nourishlab.jpg",
       start: "Aug 2025",
       end: "Present",
@@ -124,7 +124,7 @@ export const DATA = {
       href: "https://kiwidigitals.com/",
       badges: [],
       location: "Ethiopia",
-      title: "Lead Developer",
+      title: "Full Stack Developer",
       logoUrl: "/kiwi.jpg",
       start: "Jan 2025",
       end: "Present",
@@ -143,30 +143,7 @@ export const DATA = {
       description:
         "Build full-stack applications using Next.js, Django, Node.js, PostgreSQL, and RabbitMQ ",
     },
-    {
-      company: "SoundRig-United Kingdom(Remote)",
-      badges: [],
-      href: "https://soundrig.io",
-      location: "United Kingdom-Remote",
-      title: "Project Manager - Backend and Blockchain Developer ",
-      logoUrl: "/soundrig.jpg",
-      start: "June 2023",
-      end: "Present",
-      description:
-        "Architected and delivered a decentralised music and NFT marketplace on Cardano and TON blockchains; built the frontend with React and Next.js and backend APIs with Node.js. Engineered an end-to-end NFT minting pipeline with automated metadata validation and on-chain transaction management, reducing failed mint transactions by 25%. Implemented CI/CD pipelines and automated code review gates using GitHub Actions and Docker, cutting average release cycle time and reducing production regressions. Managed third-party wallet integrations (Nami, Eternl, TON Connect) and protocol connectors ensuring cross-platform compatibility.",
-    },
-    {
-      company: "Muyalogy",
-      href: "https://www.muyalogy.com/",
-      badges: [],
-      location: "Ethiopia",
-      title: "Intern",
-      logoUrl: "/muyalogy.jpg",
-      start: "Sep 2024",
-      end: "Jun 2025",
-      description:
-        "Built course management, learner progress tracking, and analytics dashboard modules for a SaaS LMS using React, Next.js, Node.js, and PostgreSQL. Designed a modular GraphQL API layer serving 12 frontend features, reducing data over-fetching and improving average API response time by 35%. Refactored core React components and implemented Redux state management, measurably improving Lighthouse performance scores and user-perceived load times.",
-    },
+
     {
       company: "Perago Information Systems ",
       href: "https://www.peragosystems.com/",
@@ -179,30 +156,7 @@ export const DATA = {
       description:
         "Built reusable React component libraries and REST/GraphQL API integrations for government-facing E-Service platforms serving thousands of daily transactions. Implemented AWS cloud deployment pipelines automating build, test, and release stages, reducing manual deployment effort by 40%.",
     },
-    {
-      company: "Dynamic Technologies",
-      href: "https://dynamictechnologieset.com/",
-      badges: [],
-      location: "Ethiopia",
-      title: "Software Engineer",
-      logoUrl: "/dynamic.jpeg",
-      start: "Jan 2024",
-      end: "Jun 2025",
-      description:
-        "Built Node.js and PostgreSQL backend systems for e-commerce and real-time sports betting platforms handling concurrent sessions and live odds feeds. Optimised critical database queries and introduced indexing strategies, reducing average API response time from 850ms to under 200ms.",
-    },
-    {
-      company: "Lela Tech",
-      href: "https://www.lelatech.io/",
-      badges: [],
-      location: "Ethiopia",
-      title: "Software Engineer",
-      logoUrl: "/lela.jpeg",
-      start: "May 2024",
-      end: "November 2024",
-      description:
-        "Built AI-driven SaaS platforms integrating Claude and OpenAI Codex APIs with Cardano smart contracts, enabling automated on-chain actions triggered by AI model outputs. Developed Python FastAPI and Node.js NestJS backend services handling AI inference, blockchain transaction broadcasting, and multi-platform webhook integrations. Deployed and audited Plutus and Solidity smart contracts verifying tokenomics, on-chain logic, and security compliance before mainnet release.",
-    },
+
     {
       company: "Creative Codes-Saudi Arabia(Remote)",
       href: "https://c-code.net/",
@@ -210,32 +164,20 @@ export const DATA = {
       location: "Saudi Arabia - Remote",
       title: "System Design - UX/UI Designer",
       logoUrl: "/cc.png",
-      start: "February 2023",
+      start: "February 2024",
       end: "July 2025",
       description:
         "Conducted design research and delivered high-quality prototypes, wireframes, and final designs for various clients. Led design system development and user testing for mobile and web platforms, resulting in improved engagement metrics. Additionally, contributed to system design, ensuring scalable and user-centric architecture across applications and websites.",
     },
-    {
-      company: "Software Engineers Association (Volunteer)",
-      href: "https://aastu.software/",
-      badges: [],
-      location: "Ethiopia - Community",
-      title: "Project Manager",
-      logoUrl: "/sea.jpg",
-      start: "June 2023",
-      // TODO: Confirm the real end date for this volunteer role.
-      end: "June 2025",
-      description:
-        "Led development of the association website and mobile apps; owned architecture, code reviews, and project roadmaps across multiple concurrent initiatives.",
-    },
+
     {
       company: "GDG (Community Volunteer)",
       href: "https://gdg.community.dev/",
       badges: [],
       location: "Ethiopia",
-      title: "Project Manager, Mentor, Education Operator",
+      title: "Education Operator",
       logoUrl: "/gdgl.png",
-      start: "June 2022",
+      start: "June 2023",
       end: "June 2025",
       description:
         "Planned and delivered hackathons and technical workshops; mentored 50+ students on full-stack development, project execution, and engineering careers.",
@@ -247,8 +189,8 @@ export const DATA = {
       href: "https://safari-academy.com/",
       degree: "High School Diploma",
       logoUrl: "/safari.jpg",
-      start: "2015",
-      end: "2019",
+      start: "2018",
+      end: "2022",
     },
     {
       school: "Addis Ababa Science and Technology University",
@@ -266,14 +208,7 @@ export const DATA = {
       start: "2024",
       end: "Expected 2028",
     },
-    {
-      school: "Georgia Institute of Technology",
-      href: "https://www.gatech.edu/",
-      degree: "Introduction to User Experience Design",
-      logoUrl: "/gt.png",
-      start: "2021",
-      end: "2022",
-    },
+
     {
       school: "Self Taught",
       href: "",
