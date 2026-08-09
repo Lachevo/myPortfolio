@@ -1,6 +1,6 @@
-# Yohannes Getachew Portfolio
+# Leul Neway Portfolio
 
-Personal portfolio site for Yohannes Getachew, built with Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, and Magic UI.
+Personal portfolio site for Leul Neway, built with Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, and Magic UI.
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ Most profile content lives in `src/data/resume.tsx`.
 The production site is configured for:
 
 ```text
-https://yohannesgetachew.vercel.app
+https://leulneway.vercel.app
 ```
 
 ## License
