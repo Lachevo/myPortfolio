@@ -13,7 +13,7 @@ const fontSans = FontSans({
   weight: ["300", "400", "500", "600", "700", "800", "900"],
 });
 
-const SITE_TITLE = "Yohannes Getachew — AI & Full-Stack Engineer";
+const SITE_TITLE = "Leul Neway — AI & Full-Stack Engineer";
 const OG_IMAGE = DATA.avatarUrl;
 
 export const metadata: Metadata = {
