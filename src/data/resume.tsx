@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Leul Neway",
+  name: "Software Engineer · Full-Stack Developer · AI",
   initials: "LN",
   url: "https://leul-neway.vercel.app",
   location: "Addis Ababa, Ethiopia",
@@ -113,7 +113,7 @@ export const DATA = {
       badges: [],
       location: "Ethiopia",
       title: "Team Lead",
-      logoUrl: "",
+      logoUrl: "/nourishlab.jpg",
       start: "Aug 2025",
       end: "Present",
       description:
@@ -125,7 +125,7 @@ export const DATA = {
       badges: [],
       location: "Ethiopia",
       title: "Lead Developer",
-      logoUrl: "/kiwi.png",
+      logoUrl: "/kiwi.jpg",
       start: "Jan 2025",
       end: "Present",
       description:
@@ -137,7 +137,7 @@ export const DATA = {
       badges: [],
       location: "Ethiopia",
       title: "Full Stack Developer",
-      logoUrl: "/roha.png",
+      logoUrl: "/roha.jpg",
       start: "April 2025",
       end: "Present",
       description:

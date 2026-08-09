@@ -30,9 +30,9 @@ const ROLE_TAGS = [
 ];
 
 const HERO_METRICS = [
-  { value: "5+", label: "Years" },
-  { value: "25+", label: "Projects" },
-  { value: "8+", label: "Teams" },
+  { value: "3+", label: "Years" },
+  { value: "8+", label: "Projects" },
+  { value: "3+", label: "Teams" },
 ];
 
 const RECRUITER_SIGNALS = [
@@ -104,7 +104,7 @@ export default function Page() {
                 {DATA.name}
               </p>
               <h1 className="max-w-5xl text-4xl font-black uppercase italic leading-[0.9] tracking-tighter text-foreground sm:text-6xl lg:text-7xl xl:text-8xl">
-               Yohannes Getachew
+                Leul Neway
               </h1>
             </BlurFade>
 
@@ -179,7 +179,7 @@ export default function Page() {
                 />
                 <div>
                   <p className="text-base font-black uppercase italic tracking-tight text-foreground">
-                  About me
+                    About me
                   </p>
                   <p className="mt-1 text-xs leading-5 text-muted-foreground">
                     Engineering execution with product judgment.
@@ -234,7 +234,8 @@ export default function Page() {
               </h2>
             </div>
             <p className="max-w-xl text-sm leading-7 text-muted-foreground">
-              A compact mix of senior engineering, product ownership, and AI systems execution.
+              A focused blend of full-stack engineering, product ownership, and AI systems development.
+
             </p>
           </div>
         </BlurFade>
