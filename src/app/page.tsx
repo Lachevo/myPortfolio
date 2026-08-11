@@ -369,7 +369,7 @@ export default function Page() {
                 </Link>
                 <div className="flex gap-3">
                   <Link
-                    href="https://wa.me/251938321124"
+                    href="https://wa.me/251955988835"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex flex-1 items-center justify-center gap-2 rounded-full border border-border px-5 py-3 text-sm font-semibold text-muted-foreground transition-colors hover:text-foreground"

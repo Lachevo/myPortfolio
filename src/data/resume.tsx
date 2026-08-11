@@ -11,7 +11,7 @@ export const DATA = {
     "Full-Stack Software Engineer, Product Manager, and AI Developer",
   summary:
     "Full-Stack Software Engineer, Product Manager, and AI Developer with 3 years of experience building scalable full-stack web applications, SaaS platforms, and AI-integrated systems. Proficient in React, Next.js, TypeScript, Node.js, Python, Go, Django, FastAPI, and NestJS. Experienced in designing and developing modern web applications, REST APIs, database architectures, and cloud deployments. Skilled with AI tooling including Claude, OpenAI Codex, MCP server configuration, LLM API integration, and AI agent development. Proven track record of leading remote engineering teams, delivering high-quality software, and improving sprint velocity by 30%. Open to remote and international opportunities.",
-  avatarUrl: "/meeeee.jpg",
+  avatarUrl: "/avatarLeul.jpg",
   skills: [
     // Programming Languages
     "TypeScript",

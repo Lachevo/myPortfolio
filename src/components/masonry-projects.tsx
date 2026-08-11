@@ -71,7 +71,7 @@ export function KineticArchive() {
             03 - Selected work
           </p>
           <h2 className="text-4xl font-black uppercase italic leading-none tracking-tighter text-foreground sm:text-5xl">
-           Projects
+            Projects
           </h2>
         </div>
         <p className="max-w-xl text-sm leading-7 text-muted-foreground">
@@ -85,11 +85,10 @@ export function KineticArchive() {
             key={item.label}
             type="button"
             onClick={() => setFilter(item.label)}
-            className={`relative overflow-hidden rounded-full px-3 py-1.5 text-xs font-bold transition-colors ${
-              filter === item.label
+            className={`relative overflow-hidden rounded-full px-3 py-1.5 text-xs font-bold transition-colors ${filter === item.label
                 ? "text-background"
                 : "border border-border text-muted-foreground hover:text-foreground"
-            }`}
+              }`}
           >
             <span className="relative z-10">
               {item.label}
