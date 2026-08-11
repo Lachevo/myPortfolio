@@ -20,7 +20,7 @@ import Link from "next/link";
 const D = 0.04;
 
 // TODO: Add the actual PDF at public/resume.pdf before publishing resume links.
-const RESUME_PATH = "/resume.pdf";
+const RESUME_PATH = "/Lastlachevoresume.pdf.pdf";
 
 const ROLE_TAGS = [
   "AI Engineer",
